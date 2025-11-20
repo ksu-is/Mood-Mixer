@@ -16,7 +16,7 @@ playlists = {
         "https://open.spotify.com/playlist/AngryPlaylistLink"
     ],
     "euphoric": [
-        "https://open.spotify.com/playlist/37i9dQZF1DX8FwnYE6PRvL?si=lJB9h1ZcSUG8RSaJATqXBg"
+        "https://open.spotify.com/playlist/4MQy6z41YrO2HkN0Iybjiu?si=POXBX35nRauH0bFgd4b2ag"
     ]
 }
 
