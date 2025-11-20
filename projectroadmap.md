@@ -9,10 +9,17 @@
 
 # Sprint 2: Development & Feature Build-Out
 - [x] Created `main.py` to handle user interaction and mood input.
-- [x] Built `play_music.py` module to store mood–playlist mappings and open Spotify links.
+- [x] Built `play_playlist.py` module to store mood–playlist mappings and open Spotify links.  
   *(Note: playlist links are placeholder URLs for now and will be updated with finalized playlists later.)*
-- [x] Connected `main.py` and `play_music.py` so the user input triggers the correct playlist.
+- [x] Connected `main.py` and `play_playlist.py` so the user input triggers the correct playlist.
 - [x] Tested the program end-to-end to ensure playlists open correctly in the browser.
+- [x] Added additional mood categories: calm and euphoric.
+- [x] Updated the playlist dictionary with actual Spotify playlist links.
+- [x] Implemented basic input handling and case normalization (`.strip().lower()`).
+- [x] Added feedback messages for invalid mood input.
+- [x] Updated README.md to include project setup instructions and usage examples.
+- [x] Debugged issues with imports and file naming (`play_music.py` → `play_playlist.py`).
+- [x] Updated `projectroadmap.md` to reflect Sprint 2 progress and accomplishments.
 
 # Sprint 3: Final Enhancements & Presentation
 - [ ] Added more detailed mood descriptions or prompts to improve user experience.
