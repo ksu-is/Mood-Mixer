@@ -5,7 +5,6 @@ import random
 playlists = {
     "happy": [
         "https://open.spotify.com/playlist/4pO80vyd83pis61t4qKpyz?si=Wl0O6ajwRUqUlk30cOD7AA",
-        "https://open.spotify.com/playlist/HappyPlaylistLink2"
     ],
     "sad": [
         "https://open.spotify.com/playlist/4MkTCMPKUSO2kXAGxDbZgM?si=0JKcLshgQMqwhrNtQf4bmQ"
