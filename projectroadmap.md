@@ -13,3 +13,13 @@
   *(Note: playlist links are placeholder URLs for now and will be updated with finalized playlists later.)*
 - [x] Connected `main.py` and `play_music.py` so the user input triggers the correct playlist.
 - [x] Tested the program end-to-end to ensure playlists open correctly in the browser.
+
+# Sprint 3: Final Enhancements & Presentation
+- [ ] Added more detailed mood descriptions or prompts to improve user experience.
+- [ ] Cleaned up code by adding comments and organizing functions for readability.
+- [ ] Replaced placeholder Spotify links with finalized, working playlist URLs.
+- [ ] Improved error handling and added input validation to prevent crashes.
+- [ ] Updated README.md with final project description, screenshots, and usage instructions.
+- [ ] Prepared final project demo and practiced explaining the workflow.
+- [ ] Completed final review of all files and ensured everything runs smoothly.
+- [ ] Submitted final project and uploaded all updated files to the KSU-IS repository.
