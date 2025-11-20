@@ -10,7 +10,7 @@ playlists = {
         "https://open.spotify.com/playlist/4MkTCMPKUSO2kXAGxDbZgM?si=0JKcLshgQMqwhrNtQf4bmQ"
     ],
     "relaxed": [
-        "https://open.spotify.com/playlist/RelaxedPlaylistLink"
+        "https://open.spotify.com/playlist/4hpTM68GoCVojjWuLY3Zbd?si=wZEp3WweRqixM6KOOPH3Rg"
     ],
     "angry": [
         "https://open.spotify.com/playlist/AngryPlaylistLink"
