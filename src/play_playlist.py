@@ -4,7 +4,7 @@ import random
 # Dictionary of moods and corresponding Spotify playlist links
 playlists = {
     "happy": [
-        "https://open.spotify.com/playlist/HappyPlaylistLink1",
+        "https://open.spotify.com/playlist/4pO80vyd83pis61t4qKpyz?si=Wl0O6ajwRUqUlk30cOD7AA",
         "https://open.spotify.com/playlist/HappyPlaylistLink2"
     ],
     "sad": [
