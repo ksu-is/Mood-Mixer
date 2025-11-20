@@ -1,4 +1,4 @@
-from play_music import play_playlist
+from play_playlist import play_playlist
 
 def main():
     print("🎵 Welcome to Mood-Mixer 🎶")
