@@ -18,4 +18,4 @@ Instead of being a big music app, it’s a small and simple tool that gives song
 - **Python** for the main program  
 - **Pandas** and **NumPy** to handle song and mood data  
 - **Spotipy** (Spotify API) to get song information  
-- **Matplotlib** to show simple mood graphs (optional)
+
