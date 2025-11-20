@@ -8,7 +8,7 @@ playlists = {
         "https://open.spotify.com/playlist/HappyPlaylistLink2"
     ],
     "sad": [
-        "https://open.spotify.com/playlist/SadPlaylistLink"
+        "https://open.spotify.com/playlist/4MkTCMPKUSO2kXAGxDbZgM?si=0JKcLshgQMqwhrNtQf4bmQ"
     ],
     "relaxed": [
         "https://open.spotify.com/playlist/RelaxedPlaylistLink"
