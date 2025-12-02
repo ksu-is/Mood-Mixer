@@ -9,7 +9,7 @@ playlists = {
     "sad": [
         "https://open.spotify.com/playlist/4MkTCMPKUSO2kXAGxDbZgM?si=0JKcLshgQMqwhrNtQf4bmQ"
     ],
-    "relaxed": [
+    "calm": [
         "https://open.spotify.com/playlist/4hpTM68GoCVojjWuLY3Zbd?si=wZEp3WweRqixM6KOOPH3Rg"
     ],
     "angry": [
