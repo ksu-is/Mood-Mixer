@@ -14,10 +14,6 @@ def main():
             print("👋 Thanks for using Mood-Mixer!")
             break
     
-        if emotion == "random":
-            emotion = random.choice(list(playlists.keys()))
-            print(f"🎲 Random mood chosen: {emotion}")
-    
         play_playlist(emotion)
 
 if __name__ == "__main__":
