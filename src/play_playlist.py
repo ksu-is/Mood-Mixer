@@ -21,6 +21,10 @@ playlists = {
 }
 
 def play_playlist(emotion):
+    if emotion == "random":
+        emotion = random.choice(list(playlists.keys()))
+        print(f"🎲 Random mood chosen: {emotion}")
+        
     if emotion not in playlists:
         print(f"❌ Mood '{emotion}' not found.")
         print("Available moods:", ", ".join(playlists.keys()))
