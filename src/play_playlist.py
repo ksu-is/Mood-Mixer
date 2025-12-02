@@ -22,7 +22,8 @@ playlists = {
 
 def play_playlist(emotion):
     if emotion not in playlists:
-        print(f"❌ Mood '{emotion}' not found! Please try again!")
+        print(f"❌ Mood '{emotion}' not found.")
+        print("Available moods:", ", ".join(playlists.keys()))
         return
     url = random.choice(playlists[emotion])
     webbrowser.open(url)
