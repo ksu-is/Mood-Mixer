@@ -9,8 +9,8 @@ def main():
     emotion = input("How are you feeling today? ").strip().lower()
 
     if emotion == "exit":
-            print("👋 Thanks for using Mood-Mixer!")
-            break
+        print("👋 Thanks for using Mood-Mixer!")
+        break
     
     if emotion == "random":
         emotion = random.choice(list(playlists.keys()))
