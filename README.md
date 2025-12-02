@@ -7,10 +7,13 @@ It’s designed to be lightweight and easy to use, providing a quick way to find
 
 ### 💡 How It Works
 
-1. The user runs the program and types in their current mood (e.g., `happy`, `sad`, `calm`, `angry`, or `euphoric`).  
+1. The user runs the program and types in their current mood (e.g., `happy`, `sad`, `calm`, `angry`, `euphoric`, or `random`).  
 2. The program selects a Spotify playlist that matches the chosen mood.  
 3. The playlist opens automatically in your web browser, so you can start listening immediately.  
-4. If the mood isn’t recognized, the program provides a friendly error message to help the user try again.
+4. The program supports **aliases** (e.g., `mad` → angry, `chill` → calm) to handle different ways users might describe their mood.  
+5. Users can type **`random`** to let the program pick a mood for them automatically.  
+6. If the mood isn’t recognized, the program provides a friendly error message with available options.  
+7. The program runs in a loop so you can pick multiple moods without restarting, and type **`exit`** to quit.
 
 ---
 
@@ -28,10 +31,11 @@ It’s designed to be lightweight and easy to use, providing a quick way to find
 
 ### 🧠 Technologies Used
 
-- **Python** – Core programming language for the application  
+- **Python 3** – Core programming language for the application  
 - **Webbrowser Module** – Opens Spotify playlists in the browser  
-- **Random Module** – Randomly selects playlists for each mood  
-- **Spotify ** – Spotify API integration for future enhancements  
+- **Random Module** – Randomly selects playlists or moods  
+- **Git & GitHub** – Version control and repository hosting  
+- **Visual Studio Code** – IDE used for development 
 
 ---
 
