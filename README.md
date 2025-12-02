@@ -9,8 +9,7 @@ It’s designed to be lightweight and easy to use, providing a quick way to find
 
 1. The user runs the program and types in their current mood (e.g., `happy`, `sad`, `calm`, `angry`, `euphoric`, or `random`).  
 2. The program selects a Spotify playlist that matches the chosen mood.  
-3. The playlist opens automatically in your web browser, so you can start listening immediately.  
-4. The program supports **aliases** (e.g., `mad` → angry, `chill` → calm) to handle different ways users might describe their mood.  
+3. The playlist opens automatically in your web browser, so you can start listening immediately.    
 5. Users can type **`random`** to let the program pick a mood for them automatically.  
 6. If the mood isn’t recognized, the program provides a friendly error message with available options.  
 7. The program runs in a loop so you can pick multiple moods without restarting, and type **`exit`** to quit.
