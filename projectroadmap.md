@@ -22,11 +22,14 @@
 - [x] Updated `projectroadmap.md` to reflect Sprint 2 progress and accomplishments.
 
 # Sprint 3: Final Enhancements & Presentation
-- [ ] Added more detailed mood descriptions or prompts to improve user experience.
-- [ ] Cleaned up code by adding comments and organizing functions for readability.
-- [ ] Replaced placeholder Spotify links with finalized, working playlist URLs.
-- [ ] Improved error handling and added input validation to prevent crashes.
-- [ ] Updated README.md with final project description, screenshots, and usage instructions.
-- [ ] Prepared final project demo and practiced explaining the workflow.
-- [ ] Completed final review of all files and ensured everything runs smoothly.
-- [ ] Submitted final project and uploaded all updated files to the KSU-IS repository.
+- [x] Added more detailed mood descriptions or prompts to improve user experience.
+- [x] Refined **user feedback** to make prompts and error messages clearer and more friendly. 
+- [x] Added a **random mood feature** that lets the program pick a mood automatically when the user types `random`.
+- [x] Implemented a **loop** in `main.py` so the program continues running until the user types `exit`, allowing multiple moods to be explored without restarting.
+- [x] Improved error handling and added input validation to prevent crashes.
+- [x] Ensured **case normalization and whitespace stripping** (`.strip().lower()`) for robust input handling.
+- [x] Finalized Spotify playlist links and verified they open correctly in the browser. 
+- [x] Updated README.md with final project description, screenshots, and usage instructions.
+- [x] Prepared final project demo and practiced explaining the workflow.
+- [x] Completed final review of all files and ensured everything runs smoothly.
+- [x] Submitted final project and uploaded all updated files to the KSU-IS repository.
